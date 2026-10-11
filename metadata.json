@@ -1,0 +1,6 @@
+{
+  "name": "ANKIT STUDY AI",
+  "description": "Futuristic AI-powered education platform, personal AI teacher, revision radar, smart library, and exam coach managed by Ankit Rajak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
